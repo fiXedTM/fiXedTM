@@ -3,4 +3,4 @@
 
 ---
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "Java")
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =250x250"Java")
