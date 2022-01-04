@@ -3,4 +3,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" data-canonical-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20" />
