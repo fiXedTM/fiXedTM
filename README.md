@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "center" style = "font-weight: bold; size: 20px">
 Welcome on my profile!
 </div>
 
