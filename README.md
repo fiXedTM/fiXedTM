@@ -1,5 +1,5 @@
-<div align = "center" style = "font-weight: bold; size: 20px">
-Welcome on my profile!
+<div align = "center">
+# Welcome on my profile!
 </div>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
