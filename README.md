@@ -1,5 +1,7 @@
-<>Welcome on my profile!
+<div align = "center">
+Welcome on my profile!
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+</div>
 
 ---
 <div align = "center">
