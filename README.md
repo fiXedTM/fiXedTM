@@ -9,4 +9,5 @@
   
 # 👑 Projects:
 <img src = "https://i.imgur.com/D3rcgIn.png" width = "40" height = "40">
+[CS-owo.pl](https://CS-owo.pl/)
 </div>
