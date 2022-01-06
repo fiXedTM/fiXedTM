@@ -7,6 +7,8 @@
 # ❤️ About me:
 Name: Kamil
 <br>
+Nickname: fiXed
+<br>
 Age: 16
 <br>
 Country: Poland
