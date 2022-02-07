@@ -26,5 +26,5 @@ Hobby: Game, programming
 <br>
 ⭐ Owner of www.CS-owo.pl
 <br>
-``📛`` Admin of ``Angle``
+📛 Admin of Angle
 </div>
