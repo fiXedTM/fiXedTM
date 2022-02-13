@@ -24,7 +24,7 @@ Hobby: Game, programming
 # 👑 Projects:
 👑 Owner of [ttv-fixed.github.io](https://ttv-fixed.github.io)
 <br>
-⭐ Owner of www.CS-owo.pl
+⭐ Owner of [CS-owo.pl](https://www.CS-owo.pl/)
 <br>
 📛 Admin of Angle
 </div>
