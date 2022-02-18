@@ -22,7 +22,9 @@ Hobby: Game, programming
 <img src = "https://cdn.countryflags.com/thumbs/poland/flag-800.png" width = "40" height = "30"> <img src = "https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" width = "40" height = "30">
   
 # 👑 Projects:
-👑 Owner of [ttv-fixed.github.io](https://ttv-fixed.github.io)
+Owner of coming soon...
+<br>
+⭐ V-Leader of WIN
 <br>
 📛 Admin of Angle
 </div>
