@@ -7,7 +7,7 @@
 # ❤️ About me:
 Name: Kamil
 <br>
-Nickname: fiXed
+Nickname: fiXed (fx)
 <br>
 Age: 16
 <br>
