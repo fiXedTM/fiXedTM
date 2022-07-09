@@ -24,5 +24,5 @@ Hobby: Programming
 # 👑 Projects:
 👑 Owner of [GameNation.eu](https://gamenation.eu/)
 <br>
-👑 Owner of [ttv-fixed.github.io](https://ttv-fixed.github.io/)
+👑 Owner of [fiXed.ovh](https://fixed.ovh/) - SOON
 </div>
