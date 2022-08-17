@@ -23,6 +23,4 @@ Hobby: Programming
   
 # 👑 Projects:
 👑 Owner of [GameNation.eu](https://gamenation.eu/)
-<br>
-👑 Owner of [fiXed.ovh](https://fixed.ovh/) - SOON
 </div>
