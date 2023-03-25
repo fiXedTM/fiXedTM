@@ -26,6 +26,6 @@ run.end()
 
 ## ☎️ Contact
 - [fiXed.ovh](https://fixed.ovh/)
-- [contact@fiXed.ovh](mailto:contact@fixed.ovh)
+- [contact@fixed.ovh](mailto:contact@fixed.ovh)
 - [fiXed#0001](#) on Discord
-- [@27.fiXed](https://instagram.com/27.fixed/) on Instagram
+- [@27.fixed](https://instagram.com/27.fixed/) on Instagram
