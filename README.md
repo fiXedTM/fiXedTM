@@ -12,6 +12,7 @@ class AboutMe:
         self.username = "fiXed"
         self.country = "Poland"
         self.role = "Developer"
+        self.os = "Debian 11 KDE Plasma"
         self.skills = ["Bash", "CSS", "HTML", "Java", "JavaScript", "JSON", "PHP", "Python"]
         self.frameworks = ["Bootstrap", "discord.js"]
         self.languages = ["en_US", "pl_PL"]
@@ -26,6 +27,6 @@ run.end()
 
 ## ☎️ Contact
 - [fiXed.ovh](https://fixed.ovh/)
-- [contact@fixed.ovh](mailto:contact@fixed.ovh)
+- [contact@fiXed.ovh](mailto:contact@fixed.ovh)
 - [fiXed#0001](#) on Discord
-- [@27.fixed](https://instagram.com/27.fixed/) on Instagram
+- [@27.fiXed](https://instagram.com/27.fixed/) on Instagram
