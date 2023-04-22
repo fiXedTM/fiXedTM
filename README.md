@@ -12,7 +12,7 @@ class AboutMe:
         self.username = "fiXed"
         self.country = "Poland"
         self.role = "Developer"
-        self.os = "Ubuntu 22.10"
+        self.os = "Ubuntu 23.04"
         self.skills = ["Bash", "CSS", "HTML", "Java", "JavaScript", "JSON", "PHP", "Python"]
         self.frameworks = ["Bootstrap", "discord.js"]
         self.languages = ["en_US", "pl_PL"]
