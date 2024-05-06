@@ -10,7 +10,7 @@ class AboutMe:
         self.username = "fiXed"
         self.country = "Poland"
         self.role = ["DevOp", "SysOp"]
-        self.os = ["Windows 10 Pro (modded)", "Debian 12"]
+        self.os = ["Windows 11 Enterprise LTSC", "Debian 12"]
         self.skills = ["Bash", "C#", "Java", "Python", "PHP", "HTML", "CSS", "JS", "NodeJS", "jQuery", "TailwindCSS", "Bootstrap", "ExpressJS"]
         self.languages = ["de_DE", "en_US", "pl_PL"]
 
